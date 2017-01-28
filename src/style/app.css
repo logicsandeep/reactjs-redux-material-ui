@@ -1,0 +1,23 @@
+body {
+  min-width: 1200px;
+  margin: 50px;
+}
+
+.row {
+  width: 100%;
+  display: inline-block;
+}
+.col {
+  display: inline-block;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+.icon-btn svg {
+  vertical-align: middle;
+  padding-bottom: 16px;
+}
